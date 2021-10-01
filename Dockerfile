@@ -63,6 +63,7 @@ RUN apt-get update && apt-get upgrade -y \
     python3-pyqt5 \
     python3-pyqt5.qsci \
     python3-pyqt5.qtsql \
+    python3-pyqt5.qtwebkit \
     python3-sip \
     python3-pip \
     python3-psycopg2 \
